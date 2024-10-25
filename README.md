@@ -11,20 +11,24 @@ Using Excel to deliver insight from multiple dataset by building a dashboard
 * [Acknowledgements](#Acknowledgements)
 <!-- * [License](#license) -->
 
-## General Information
-Create a dashboard to deliver insight of several dataset: 
-- Wage and employement figures look like by industries
+#General Information
+This project involves creating a dashboard in Excel to provide insights from multiple datasets, focusing on:
+- Wage and employment statistics across industries
+- Key performance indicators (KPIs) for Maven Toys across various regions
 
+#Information
+The datasets used in this project include:
+- U.S. Labor Statistics
+- Maven Toys Monthly Sales Data
+- U.S. Music Industry Revenue
 
-## Dataset Information
-The dataset consists : 
-- US Labor Statistic
-- MavenToys Monthly Sales
-- US Music Revenue 
+#Technologies Used
+- Microsoft Excel (Dashboarding and Data Visualization)
 
-## Technologies Used
-- Microsoft Excel
+#End Result
+View the final dashboard and insights on GitHub
 
-## End Result 
-- Please refer to the result in my GitHub 
+#Acknowledgements
+Thanks to Maven Analytics for providing the datasets and resources used in this project.
+
 

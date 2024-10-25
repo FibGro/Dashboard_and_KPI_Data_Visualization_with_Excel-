@@ -11,12 +11,12 @@ Using Excel to deliver insight from multiple dataset by building a dashboard
 * [Acknowledgements](#Acknowledgements)
 <!-- * [License](#license) -->
 
-#General Information
+## General Information
 This project involves creating a dashboard in Excel to provide insights from multiple datasets, focusing on:
 - Wage and employment statistics across industries
 - Key performance indicators (KPIs) for Maven Toys across various regions
 
-#Information
+## Information
 The datasets used in this project include:
 - U.S. Labor Statistics
 - Maven Toys Monthly Sales Data

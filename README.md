@@ -14,7 +14,7 @@ Using Excel to deliver insight from multiple dataset by building a dashboard
 ## General Information
 Create a dashboard to deliver insight of several dataset: 
 - Wage and employement figures look like by industries
-- 
+
 
 ## Dataset Information
 The dataset consists : 

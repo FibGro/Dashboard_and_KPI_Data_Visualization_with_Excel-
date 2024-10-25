@@ -22,13 +22,13 @@ The datasets used in this project include:
 - Maven Toys Monthly Sales Data
 - U.S. Music Industry Revenue
 
-#Technologies Used
+## Technologies Used
 - Microsoft Excel (Dashboarding and Data Visualization)
 
-#End Result
+## End Result
 View the final dashboard and insights on GitHub
 
-#Acknowledgements
+## Acknowledgements
 Thanks to Maven Analytics for providing the datasets and resources used in this project.
 
 

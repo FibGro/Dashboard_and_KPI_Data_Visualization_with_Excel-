@@ -20,10 +20,9 @@ This project involves creating a dashboard in Excel to provide insights from mul
 The datasets used in this project include:
 - U.S. Labor Statistics
 - Maven Toys Monthly Sales Data
-- U.S. Music Industry Revenue
 
 ## Technologies Used
-- Microsoft Excel (Dashboarding and Data Visualization)
+Microsoft Excel (Dashboarding and Data Visualization)
 
 ## End Result
 View the final dashboard and insights on GitHub
